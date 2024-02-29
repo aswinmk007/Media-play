@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://media-player-rn2g.onrender.com"
